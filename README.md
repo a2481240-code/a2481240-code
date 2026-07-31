@@ -1,3 +1,4 @@
+![logo](https://github.com/a2481240-code/a2481240-code/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 
 <h3 align="center">
