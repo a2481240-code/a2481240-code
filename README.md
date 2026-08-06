@@ -13,7 +13,7 @@ Cyber Security Student | Python Developer | Learning Through Real-World Projects
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Password Security Checker**
+- 🔭 I’m currently working on **Caesar Cipher Encryptor & Decryptor**
 - 🌱 I’m currently learning **Python, Linux, Networking, and Cyber Security**
 - 📚 I completed **Library Management System**
 - 🤝 I’m looking for help with **Computer Networking**
@@ -22,8 +22,9 @@ Cyber Security Student | Python Developer | Learning Through Real-World Projects
 
 ## 🚀 Projects
 
-- 🔐 Password Security Checker
-- 📚 Library Management System
+-  Password Security Checker
+-  Library Management System
+-  Caesar Cipher Encryptor & Decryptor
 
 👉 **View all projects:**  
 https://github.com/a2481240-code
